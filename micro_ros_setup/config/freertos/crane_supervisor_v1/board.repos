@@ -1,0 +1,5 @@
+repositories:
+  cranesupervisor:
+    type: git
+    url: https://github.com/alsaibie/cranesupervisor
+    version: master
